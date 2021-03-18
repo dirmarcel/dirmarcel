@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**dirmarcel/dirmarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, Nodejs],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["mySQL", "mariaDB"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["A self-taught person who is learning"],
+   challenge: "Be good in JS and React",

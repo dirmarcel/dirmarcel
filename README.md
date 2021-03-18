@@ -1,16 +1,5 @@
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Nodejs],
-   technologies: {
-      frontEnd: {
-         js: ["React"],
-         css: ["Bootstrap"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-      },
-      databases: ["mySQL", "mariaDB"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["A self-taught person who is learning"],
-   challenge: "Be good in JS and React",
+<h2>dirmarcel's stats</h2>
+
+[![dirmarce's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirmarcel)](https://github.com/dirmarcel/github-readme-stats)
+![dirmacel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirname&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirname&show_icons=true)
